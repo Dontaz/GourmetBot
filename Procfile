@@ -1,1 +1,1 @@
-worker: node Gourmet.js
+worker: node bot.js
